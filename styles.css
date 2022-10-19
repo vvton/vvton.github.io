@@ -1,12 +1,16 @@
 body {
-    background-color: rgb(206, 121, 255);
+    background-color: #febca4;
     background-image: url(repeatingBackground.jpg);
 }
 
 .header {
     background-color: #f8f4f1;
+    padding: 20px;
+    font-family: "Silkscreen", Tahoma, sans-serif;
+    font-size: 32px;
 }
 
 .header > h1 {
-    color: blue;
+    color: #6a869e;
+    padding: 0px 5px 0px 5px;
 }
