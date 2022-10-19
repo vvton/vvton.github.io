@@ -1,12 +1,12 @@
 body {
-    background-color: lavender;
+    background-color: rgb(206, 121, 255);
     background-image: url(repeatingBackground.jpg);
 }
 
-header {
+.header {
     background-color: #f8f4f1;
 }
 
-header h1 {
+.header > h1 {
     color: blue;
 }
