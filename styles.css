@@ -2,3 +2,11 @@ body {
     background-color: lavender;
     background-image: url(repeatingBackground.jpg);
 }
+
+header {
+    background-color: #f8f4f1;
+}
+
+header h1 {
+    color: blue;
+}
